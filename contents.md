@@ -37,14 +37,14 @@ YouTube에는 유익한 강의, 인터뷰, 기술 영상 등이 많지만 영상
 
 ## 입력 → AI 처리 → 출력
 
-YouTube URL 입력 → youtube-transcript-api로 자막 추출 → Gemini 1.5 Flash가 자막 분석 및 요약 → 전체 요약, 타임스탬프별 핵심 내용, 영상 Q&A 결과 출력
+YouTube URL 입력 → youtube-transcript-api로 자막 추출 → Gemini 2.5 Flash가 자막 분석 및 요약 → 전체 요약, 타임스탬프별 핵심 내용, 영상 Q&A 결과 출력
 
 ---
 
 ## 기술 스택
 
 * **UI**: Streamlit
-* **모델 / API**: Gemini 1.5 Flash
+* **모델 / API**: Gemini 2.5 Flash
 * **외부 서비스**: youtube-transcript-api
 
 ---
