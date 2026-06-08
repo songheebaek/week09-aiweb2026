@@ -6,7 +6,7 @@
 
 ## 트랙
 
-LLM API 챗봇 (OpenAI/Anthropic/Gemini API + UI)
+외부 API + LLM (영상 자막을 외부 API로 가져와 → LLM(Gemini)으로 가공(요약))
 
 ---
 
