@@ -12,8 +12,7 @@ LLM API 챗봇 (OpenAI/Anthropic/Gemini API + UI)
 
 ## 인프라 트랙
 
-HF Spaces(10주차 OCI 미완 학생 — Docker 모드)
-<sub>(오라클 클라우드 계정이 정지돼서 OCI → HF Spaces 로 변경했습니다)</sub>
+HuggingFace Spaces
 
 ---
 
