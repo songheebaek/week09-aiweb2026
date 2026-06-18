@@ -1,7 +1,7 @@
 /* ============ 디자인 토큰 ============ */
 :root {
-  --accent: #8416f9;
-  --accent2: #0035b0;
+  --accent: #7100db;
+  --accent2: rgba(144, 0, 255, 0.412);
   --ink: #1a1a2e;
   --muted: #64748b;
   --bg: #fafafa;
