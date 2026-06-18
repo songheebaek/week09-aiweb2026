@@ -44,11 +44,14 @@
 ---
 
 ## 🔄 입력 → AI 처리 → 출력
-🔗 URL 입력
-   └─▶ 📜 youtube-transcript-api로 자막 추출
-         └─▶ 🤖 Gemini 3.5 Flash 분석 (요약 + 타임스탬프)
-               └─▶ 📊 요약 · 타임스탬프 핵심 · Q&A 출력
 
+**🔗 URL 입력**
+⬇️
+**📜 자막 추출** — youtube-transcript-api
+⬇️
+**🤖 AI 분석** — Gemini 3.5 Flash (요약 + 타임스탬프)
+⬇️
+**📊 결과 출력** — 요약 · 타임스탬프 핵심 · Q&A
 ---
 
 ## 🗺️ 전체 동작 흐름
